@@ -36,7 +36,7 @@ ii.	,then use the analysis to make predictions on the other two files, predictin
 •	Insights gained from the demographic comparison will be applied to the remaining two datasets to predict which individuals are most likely to convert into customers. For this, predictive metrics such as precision, recall, and the area under the ROC curve (AUC) will be used to evaluate the effectiveness of the models in identifying potential customers.
 
 
-# Data exploration ana visualization
+# Data exploration and visualization
 Visualization played a crucial role during the exploratory phase of the project, a period dedicated to becoming acquainted with the dataset and understanding its underlying characteristics. During this initial phase, visual tools and techniques were employed to delve into the data's structure and patterns, akin to peering "under the hood" to uncover how the data is organized and what it reveals.
 By leveraging various types of visualizations—such as bar plots scatter plots, and box plots—I was able to gain insights into the distribution of different features, identify potential correlations, and spot any anomalies or outliers. This approach not only facilitated a deeper understanding of the dataset but also helped in formulating hypotheses and guiding subsequent data preprocessing and analysis steps.
 
