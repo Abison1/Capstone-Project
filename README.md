@@ -53,3 +53,4 @@ The K-Nearest Neighbors (KNN) algorithm was applied as a classification model, a
 
 # Conclusion
 The market segmentation project offered valuable insights into customer behavior and preferences, facilitating more strategic and data-driven decision-making. By employing PCA for dimensionality reduction, KMeans for clustering, and KNN for classification, we were able to uncover meaningful patterns and segments within the data. The project highlighted the importance of data quality, effective dimensionality reduction, and comprehensive model evaluation. Moving forward, these insights will inform the development of targeted marketing strategies and contribute to more effective customer engagement.
+Meium link: https://medium.com/@abison.chabalala/udacity-capstone-project-market-segmentation-d53a1d7afb46
